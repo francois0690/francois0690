@@ -11,7 +11,7 @@ Hi there 👋
 - ![Rails app deployment](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-16px-Capistrano_logo.svg.png "Rails app deployment") Rails app deployment
 - ![Ngnix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/langfr-60px-Nginx_logo.svg.png "Ngnix") Ngnix
 
-Made the fantastic bootcamp ![Le Wagon](https://avatars2.githubusercontent.com/u/5470001?s=18 "Le Wagon") [Le Wagon](https://www.lewagon.com)
+Made the fantastic bootcamp ![Le Wagon](https://avatars2.githubusercontent.com/u/5470001?s=18 "Le Wagon") [Le Wagon](https://www.lewagon.com) :ok_hand: :star2:
 
 <!--
 **francois0690/francois0690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
