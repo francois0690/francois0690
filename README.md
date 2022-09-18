@@ -9,7 +9,8 @@ Hi there 👋
 - ![css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-16px-CSS3_logo_and_wordmark.svg.png "css") Css
 - ![DevOps](https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/langfr-16px-Raspberry_Pi_logo.svg.png "DevOps") DevOps (Raspberry, Debian, Ubuntu)
 - ![Rails app deployment](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-16px-Capistrano_logo.svg.png "Rails app deployment") Rails app deployment
-- ![Ngnix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/langfr-60px-Nginx_logo.svg.png "Ngnix") Ngnix
+- ![Ngnix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/langfr-60px-Nginx_logo.svg.png "Ngnix") Web 
+Serveur & Reverse Proxy
 
 Made the fantastic bootcamp ![Le Wagon](https://avatars2.githubusercontent.com/u/5470001?s=18 "Le Wagon") [Le Wagon](https://www.lewagon.com) :ok_hand: :star2:
 
