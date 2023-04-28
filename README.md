@@ -3,7 +3,7 @@ Hi there 👋
 - ![Ruby](https://cdn.emojidex.com/emoji/ldpi/Ruby.png "Ruby") Ruby
 - ![Ruby On Rails](https://cdn.emojidex.com/emoji/ldpi/Ruby.png "Ruby On Tails") Ruby On Rails
 - ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png?uselang=fr "JS") Javascript & Stimulus
-- ![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/32px-Stripe_Logo%2C_revised_2016.svg.png) Stripe Webhooks, Stripe Checkout, Stripe Connect 
+- ![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/64px-Stripe_Logo%2C_revised_2016.svg.png) Stripe Webhooks, Stripe Checkout, Stripe Connect 
 - ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/16px-Postgresql_elephant.svg.png "PostgreSQL")  Postgresql
 - ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/30px-Git-logo.svg.png?uselang=fr "Git")  Git
 - ![Html](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-16px-HTML5_logo_and_wordmark.svg.png "Html") Html
