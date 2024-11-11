@@ -6,9 +6,9 @@ Hi there 👋
 - ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/32px-Postgresql_elephant.svg.png "PostgreSQL")  Postgresql
 - ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/32px-Git-logo.svg.png?uselang=fr "Git")  Git
 - ![Html](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-32px-HTML5_logo_and_wordmark.svg.png "Html") Html
-- ![css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-32px-CSS3_logo_and_wordmark.svg.png "css") Css
+- ![css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-24x-CSS3_logo_and_wordmark.svg.png "css") Css
 - ![Proxmox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_Proxmox.svg/64px-Logo_Proxmox.svg.png "Proxmox") Proxmox Server Solutions 
-- ![DevOps](https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/langfr-32px-Raspberry_Pi_logo.svg.png "DevOps") DevOps (Raspberry, Debian, Ubuntu)
+- ![DevOps & Cybersec](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/32px-Debian-OpenLogo.svg.png "DevOps & Cybersec") DevOps & Cybersec (Debian, Ubuntu, Raspberry OS)
 - ![Rails app deployment](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-16px-Capistrano_logo.svg.png "Rails app deployment") Rails app deployment
 - ![Ngnix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/langfr-60px-Nginx_logo.svg.png "Ngnix") Web 
 Serveur, Reverse Proxy, Load Balancer
