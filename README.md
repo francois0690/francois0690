@@ -9,7 +9,7 @@ Hi there 👋
 - ![Css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/32px-CSS3_logo_and_wordmark.svg.png "Css") Css
 - ![Proxmox](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_Proxmox.svg/64px-Logo_Proxmox.svg.png "Proxmox") Proxmox Server Solutions 
 - ![DevOps & Cybersec](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/32px-Debian-OpenLogo.svg.png "DevOps & Cybersec") DevOps & Cybersec (Debian, Ubuntu, Raspberry OS)
-- ![Rails app deployment](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-16px-Capistrano_logo.svg.png "Rails app deployment") Rails app deployment
+- ![Rails app deployment](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Capistrano_logo.svg/langfr-16px-Capistrano_logo.svg.png "Rails app deployment") Rails app deployment with Tomo Deploy
 - ![Ngnix](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/langfr-60px-Nginx_logo.svg.png "Ngnix") Web 
 Serveur, Reverse Proxy, Load Balancer
 - ![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/64px-Stripe_Logo%2C_revised_2016.svg.png "Stripe") Stripe Webhooks, Stripe Checkout, Stripe Connect
