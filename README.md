@@ -1,6 +1,6 @@
 Hi there 👋
 
-- ![Ruby](https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg "Ruby") Ruby
+- ![Ruby](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/16px-Ruby_logo.svg.png "Ruby") Ruby
 - ![Ruby On Rails](https://cdn.emojidex.com/emoji/ldpi/Ruby.png "Ruby On Tails") Ruby On Rails
 - ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png?uselang=fr "JS") Javascript & Stimulus
 - ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/16px-Postgresql_elephant.svg.png "PostgreSQL")  Postgresql
